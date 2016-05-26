@@ -1,12 +1,12 @@
-## BasicProject
-Project to showcase the BasicProject to begin witg so new classes can be created under it.
+## Per-Registration Project
 
-Some basic methods used will be as follows.
-1) Scanner
-2) String
-3) Primitives
-4) Switch
-5) If/Else
-6) and many more....
+* Simple pet registration project
+
+**Java 7** 
+
+* Java Application
+* MAven
+
+Registers user's pet info.... LOL
 
 [Anand Yerramsetty](http://mywebsite.com)
